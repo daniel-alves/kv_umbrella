@@ -17,10 +17,13 @@
 
 #### Após gerar as releases, para executar os 2 nodes em windows
 **Node foo**
+
 `> $MIX_ENV="prod"`
+
 `> _build/prod/rel/foo/bin/foo start`
 
 `> $MIX_ENV="prod"`
+
 `> _build/prod/rel/bar/bin/bar start`
 
 #### Para testar 
