@@ -29,7 +29,7 @@
 #### Para testar 
 abra o telnet connect em 127.0.0.1(ou IP da maquina que esta rodando o kv_server) na porta 4040
 
-`Comandos possíveis`
+**Comandos possíveis**
 
 `CREATE shopping`
 
